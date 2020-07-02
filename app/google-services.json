@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "133545567327",
+    "firebase_url": "https://simbirplanner.firebaseio.com",
+    "project_id": "simbirplanner",
+    "storage_bucket": "simbirplanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133545567327:android:56acaf29942c2985c7a7ea",
+        "android_client_info": {
+          "package_name": "com.example.simbirplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133545567327-0v3brp8d9ik37tubea5n67atft2v96j6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simbirplanner",
+            "certificate_hash": "ef6dd35af990f260ad07a31b9eea33f35fb813f5"
+          }
+        },
+        {
+          "client_id": "133545567327-klps5cl624r62c2rcsrobraurdu5n036.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9V_DMYwvMHnwrLfRpKZQ4jICrfQLkerI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133545567327-klps5cl624r62c2rcsrobraurdu5n036.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

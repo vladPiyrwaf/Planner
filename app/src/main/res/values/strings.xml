@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">SimbirPlanner</string>
+    <string name="titleCase">Title</string>
+    <string name="descriptionCase">Description</string>
+    <string name="create">Create</string>
+
+    <string name="error_required">This field is required</string>
+    <string name="description_sample">Description sample</string>
+    <string name="hh_mm">HH-MM</string>
+    <string name="dd_mm_yyyy">DD-MM-YYYY</string>
+    <string name="finish">Finish</string>
+    <string name="start">Start</string>
+    <string name="title">Title</string>
+    <string name="select">select ▼</string>
 </resources>
